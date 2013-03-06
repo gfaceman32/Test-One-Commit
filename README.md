@@ -7,3 +7,4 @@ but I am working to get a better grasp of the programmimg side.
 I was curious to whether you'll illustrate how to make our Illustrator mockups web functional?... as I had some trouble 
 exporting the file as a HTML document.
 
+img src=<http://web.njit.edu/~faison/is117/testmockup.jpg>
